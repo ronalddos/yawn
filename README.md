@@ -4,7 +4,7 @@
 
 ---
 
-![yawn-logo](./assets/yawn-logo.png)
+![yawn-logo](yawn-logo.png)
 
 Yawn is a FOSS tool for offensive security, combining the power of a CLI with the expressiveness of an interactive TUI inspired by Vim. Its unique approach lies in merging a minimalist design with practical features that cover key phases of exploitation, data collection, and evidence generation for Red Team operations, penetration tests, and CTFs.
 
