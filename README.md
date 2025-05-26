@@ -1,4 +1,4 @@
-# 🧙‍♂️ Yawn — Hacking while you yawn.
+# 🧙‍♂️ Yawn — Hacking while yawn.
 
 *A lazy red team tool for offensive automation and intelligent parsing — with style.*
 
