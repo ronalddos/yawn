@@ -67,18 +67,6 @@ Yawn reflects the tired-yet-sharp routine of real-world Red Teamers: focused, ef
 
 ---
 
-## 🎨 Style and Identity
-
-Yawn adopts a **lazy cyberpunk** aesthetic:
-
-* Color palette based on **red (#ff3c00)**, black, and glitchy purples
-* Mascot: a yawning hooded wizard — a symbol of the sleepy hacker master
-* Flat, vector-based design built for the terminal
-
-![Mascot: The Yawn Mage](./assets/yawn-mage.png)
-
----
-
 ## 🧪 Technology Roadmap
 
 1. CLI and TUI in Python
